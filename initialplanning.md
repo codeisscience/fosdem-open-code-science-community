@@ -29,9 +29,9 @@
 - Aim: travel support for speakers who otherwise would not be able to attend
 - ELIXIR
 - SSI - Neil
-- Yo to follow up with common fellowship fund
-- CZI (for D&I) - Dario via Emmy
-- Sloan - Josh via Emmy
+   - Yo to follow up with common fellowship fund
+- CZI (for D&I) (Emmy)
+- Sloan (Emmy)
 - YLD 
 - eScience Center
 - Google open source
