@@ -2,7 +2,10 @@
 ## open(code + science + community)
 
 ### Organisers
-- Yo Yehudi, Emmy Tsang, Michael Crusoe, Mateusz Kuzak
+- Yo Yehudi @yochannah
+- Emmy Tsang @emmyft
+- Michael Crusoe @mr-c
+- Mateusz Kuzak @mkuzak
 
 ### Topics
 - How to make your project welcome to the diverse community
