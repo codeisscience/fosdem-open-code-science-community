@@ -13,9 +13,7 @@
 - Mentoring
 - How to organise Study Group / Hacky hour
 
-
-
-### Audience
+### Audience
 - RSEs
 - Researchers who develop software/tools, who identify as researchers: There are researchers who develop software, so we are giving them a reason to go to a open-source software conference
 - The themes are not exclusive to science
@@ -41,7 +39,6 @@
 - Python Software Foundation (Christian Barra)
 - IBM? (ask Alejandra)
 - Intel
-
 
 
 ## Presentations:
