@@ -59,8 +59,10 @@
 
 
 ## Timeline:
-- August 2019 - Devroom proposals open
-- October - Devroom proposal deadline 1
-- October - Accepted devrooms announced. 
+- August 15 - Devroom proposals open
+- September 20 - Devroom proposal deadline 1
+- September 30 - Accepted devrooms announced. 
+- Oct 15 (latest) - open RFP
 - 10 or 15 November - week 2 or 3 - proposals close. 2 week to a month for the RFP. 
 - 1 December - LAST deadline for talk invites (make sure they can get visas and passports)
+- 15 December (latest)- Devroom schedule announced
