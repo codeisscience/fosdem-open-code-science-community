@@ -2,7 +2,7 @@
 [https://submission.fosdem.org/submission/devroom](https://submission.fosdem.org/submission/devroom)
 
 ## Project details 
-* Tithttps://submission.fosdem.org/submission/devroomle of devroom
+* Title of devroom
 * Elaborate description of proposed devroom (including possible topics)
 * Why does it fit FOSDEM?
 * Preferred slot: (half day / full day / both days)
