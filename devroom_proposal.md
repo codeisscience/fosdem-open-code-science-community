@@ -1,6 +1,7 @@
 ---
 tags: FOSDEM
 ---
+# FOSDEM Devroom Proposal: open(code + science + community)
 
 **to be submitted by September 20**
 [https://submission.fosdem.org/submission/devroom](https://submission.fosdem.org/submission/devroom)
